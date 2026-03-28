@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Notebook outputs and caches
+cache/
+*_executed.ipynb
+
+# Data (large files)
+data/
+
+# Env
+.env
