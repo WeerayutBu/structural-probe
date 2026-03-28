@@ -13,3 +13,4 @@ data/
 # Env
 .env
 probe.ipynb
+probe_B.pt
